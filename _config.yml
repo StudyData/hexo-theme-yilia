@@ -6,10 +6,10 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/xx-li/"
+  # weibo: "#"
+  # rss: "#"
+  # zhihu: "#"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -17,13 +17,13 @@ subnav:
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "mailto:x@devlxx.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
   #linkedin: "#"
 
-rss: /atom.xml
+# rss: /atom.xml
 
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: 'https://avatars3.githubusercontent.com/u/5794847?v=4&s=460'
 
 #是否开启分享
 share_jia: true
@@ -88,7 +88,7 @@ changyan_appid: false
 changyan_conf: false
 
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
-disqus: false
+disqus: true
 
 #5、Gitment
 gitment_owner: false      #你的 GitHub ID
@@ -116,7 +116,7 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  friends: false
   aboutme: '关于我'
 
 friends:
